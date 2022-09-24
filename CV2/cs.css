@@ -1,0 +1,227 @@
+#body {
+
+    top: -25px;
+    position: relative;
+    overflow-x: hidden;
+    width: 1333px;
+    height: 1600px;
+    border: 0px solid white;
+
+
+}
+
+
+
+#a1 {
+    width: 500px;
+    height: 1600px;
+    background-color: #28282B;
+    float: left;
+
+}
+
+#a2 {
+    width: 833px;
+    height: 600px;
+    background-color: #28282B;
+    float: left;
+}
+
+#a11 {
+    position: relative;
+    top: 10px;
+    left: 40px;
+    font-size: 30px;
+    color: darkslateblue;
+
+}
+
+#a12 {
+    position: relative;
+    top: 8px;
+    left: 40px;
+    color: bisque;
+}
+
+#a13 {
+    position: relative;
+    top: 10px;
+    left: 40px;
+    color: bisque;
+}
+
+#a14 {
+    position: relative;
+    top: 10px;
+    left: 40px;
+    color: bisque;
+}
+
+#image {
+    width: 500px;
+    height: 600px;
+
+
+}
+
+
+#h11 {
+
+    font-size: 50px;
+    position: relative;
+    top: 200px;
+    left: 60px;
+    color: white;
+
+
+}
+
+
+#h12 {
+
+    font-size: 35px;
+    position: relative;
+    top: 150px;
+    left: 65px;
+    float: left;
+    color: white;
+
+}
+
+#para {
+    width: 785px;
+    font-size: 20px;
+    position: relative;
+    top: 180px;
+    left: 20px;
+    text-align: justify;
+    float: left;
+    color: white;
+}
+
+#a3 {
+    background-color: grey;
+    width: 1333px;
+    height: 1600px;
+
+}
+
+
+#b11 {
+    position: relative;
+    top: 30px;
+    left: 40px;
+    font-size: 30px;
+
+
+}
+
+#b12 {
+    position: relative;
+    top: 10px;
+    left: 40px;
+    color: #28282B;
+    font-size: 22px;
+}
+
+#b13 {
+    position: relative;
+    top: 10px;
+    left: 40px;
+    color: #28282B;
+    font-size: 22px;
+}
+
+#b14 {
+    position: relative;
+    top: 10px;
+    left: 40px;
+    color: #28282B;
+    font-size: 22px;
+}
+
+#c11 {
+    position: relative;
+    top: 8px;
+    left: 40px;
+    color: #28282B;
+    font-size: 15px;
+}
+
+#c12 {
+    position: relative;
+    top: 0px;
+    left: 40px;
+    color: #28282B;
+    font-size: 15px;
+
+}
+
+#c13 {
+    position: relative;
+    top: 0px;
+    left: 40px;
+    color: #28282B;
+    font-size: 15px;
+
+}
+
+
+#pic1 {
+    position: relative;
+    width: 70px;
+    top: 30px;
+    left: 25px;
+
+
+}
+
+
+#pic2 {
+    position: relative;
+    width: 60px;
+    top: 90px;
+    right: 43px;
+
+
+}
+
+
+#pic3 {
+    position: relative;
+    width: 50px;
+    top: 150px;
+    right: 100px;
+
+
+}
+
+
+#pic4 {
+    position: relative;
+    width: 60px;
+    top: 220px;
+    right: 155px;
+
+
+}
+
+
+#sm {
+    color: #36454F;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bb

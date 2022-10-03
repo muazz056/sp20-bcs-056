@@ -1,13 +1,8 @@
 #body {
     overflow-x: hidden;
-    width: 100%;
-    height: 100%;
-    margin: 0px;
-    padding: 0px;
+
+
 }
-
-
-
 
 #first {
 
@@ -583,25 +578,10 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #Footer {
     width: 1360px;
     height: 250px;
     background-color: #28282B;
-    position: relative;
-    bottom: 1300px;
 }
 
 
@@ -767,19 +747,18 @@
 #hr {
 
     position: relative;
-    bottom: 1185px;
-    background-color: white;
+    top: 182px;
+    background-color: grey;
 }
 
 
 #fmenu {
     position: relative;
     top: -635px;
-    left: -40px;
+    left: -50px;
     color: white;
     height: 0px;
     width: 1360px;
-
 }
 
 #fmenu ul {
@@ -809,3 +788,31 @@
     top: -15px;
     left: 25px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#b {}

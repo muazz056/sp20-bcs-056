@@ -1,0 +1,96 @@
+#text1 {
+    font-size: 25px;
+    color: white;
+
+}
+
+#sbtn {
+
+    color: bisque;
+
+}
+
+#drop {
+
+    background-color: grey;
+
+}
+
+#carousals {
+
+    position: relative;
+    top: 5px;
+}
+
+
+#crd1 {
+    position: relative;
+    top: 45px;
+    left: 20px;
+    float: left;
+}
+
+
+#crd2 {
+    position: relative;
+    float: left;
+    left: 70px;
+    top: 45px;
+    float: left;
+}
+
+
+
+
+#crd3 {
+    position: relative;
+    float: left;
+    left: 120px;
+    top: 45px;
+    float: left;
+}
+
+#crd4 {
+    position: relative;
+    float: left;
+    left: 170px;
+    top: 45px;
+    float: left;
+}
+
+#spin {
+    position: relative;
+    left: -729px;
+    top: -950.5px;
+
+
+}
+
+
+#frm {
+    position: relative;
+    top: 150px;
+    float: left;
+    right: 345px;
+
+}
+
+
+
+
+
+#ht {
+    color: #282828;
+    position: absolute;
+    left: 37%;
+    top: 1550px;
+    float: left;
+
+}
+
+
+#foot {
+    position: absolute;
+    top: 2000px;
+    width: 100%;
+}
